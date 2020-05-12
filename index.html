@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--link rel="stylesheet" media="all" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans"-->
+
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+<script>
+    var WebFont = require('webfontloader');
+    WebFont.load({
+        google: {
+        families: ['Droid Sans', 'Droid Serif']
+        }
+    });
+</script>
+
+<style>
+/* Style the body */
+body {
+    /*display: block;*/
+    /*height: 100vh;*/
+    font-family: 'Droid Sans','Liberation Sans',Arial,Helvetica,sans-serif;
+}
+
+/* Header/Logo Title */
+#page {
+    margin: 15px auto;
+    width: 890px;
+    /*height:100%;*/
+    text-decoration: none;
+    border-bottom: 1px solid #606060;
+}
+
+#header {
+    width: 100%;
+    height: 80px;
+    padding: 0;
+    margin: 0 0 2.5em 0;
+    border-bottom: 1px solid #606060;
+    color: #222;
+}
+
+#leftbox {
+    position: relative;
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+#rightbox {
+    position: relative;
+    float: right;
+    width: 49%;
+    height: 100%;
+}
+
+#title {
+    position: absolute;
+    bottom: 0;
+    padding: 0;
+    font-size: 48px;
+    line-height: 59px;
+    vertical-align: top;
+    font-weight: bold;
+}
+
+#menu {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    bottom: 0;
+    padding: 0;
+    margin-bottom: 8px;
+    font-size: 112.5%;
+    line-height: 22px;
+    vertical-align: top;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+#menu ul {
+    padding: 0;
+    margin:0;
+}
+
+#menu li{
+    display: inline;
+}
+
+#menu li:not(:first-child):before {
+    content: " / ";
+}
+
+#header a:link,a:link:active,a:visited,a:visited:active{
+    color:#222;
+    text-decoration: none;
+}
+
+
+
+/* Page Content */
+#content {
+    vertical-align: middle;
+    min-height: 100vh;
+}
+</style>
+
+</head>
+<body>
+
+<div id="page">
+    <div id="header">
+        <div id="leftbox"><div id="title"><a href="{ROOT}/">~rodrigo</a></div></div>
+        <div id="rightbox"><div id="menu">
+            <ul>
+                <li><a href="{ROOT}/blog">BLOG</a></li>
+                <li><a href="{ROOT}/projects">PROJECTS</a></li>
+                <li><a href="{ROOT}/pictures">PICTURES</a></li>
+                <li><a href="{ROOT}/contact">CONTACT</a></li>
+            </ul>
+        </div></div>
+    </div>
+
+    <div id="content">
+	<!--FAKE_BODY-->
+    </div>
+</div>
+
+</body>
+</html>
+
