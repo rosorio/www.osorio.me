@@ -41,5 +41,5 @@ You can now run or copy the lcpustats binary.
 
 # Screenshots
 
-![](img/screenshot.png)
+![](img/screenshot.png){:width="200px"}
 
