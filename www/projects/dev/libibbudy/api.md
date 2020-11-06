@@ -22,7 +22,7 @@
 |ibuddy_get_body_state    |
 |ibuddy_get_hearth_state  |
 |ibuddy_set_all_state     |
-|
+
 ## I-Buddy facilitators
 
 |Name  |Description       |
