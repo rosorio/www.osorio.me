@@ -46,11 +46,14 @@ ibuddycmd 7
 
 # Download
 
-The latest version is the v0.0.1, see [changelog](http://files.bebik.net/libibuddy/changelog.txt) for details.
+The latest version is the v0.0.2, see [GitHub](https://github.com/rosorio/libibuddy).
+
+v0.0.1 : [changelog](http://files.bebik.net/libibuddy/changelog.txt) for details.
 
 | Version | Sources | Checksum |
 |---------|---------|----------|
 | v0.0.1  | [libibuddy-0.0.1.tgz](http://files.bebik.net/libibuddy/libibuddy-0.0.1.tgz) | [libibuddy-0.0.1.sum](http://files.bebik.net/libibuddy/libibuddy-0.0.1.sum) |
+| v0.0.2  | GITHUB | GITHUB |
 
 
 # License
