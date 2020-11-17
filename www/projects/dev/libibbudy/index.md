@@ -1,4 +1,4 @@
-* The libibbudy is a loadable library to control the i-buddy device for many unixes. ù
+* The libibbudy is a loadable library to control the i-buddy device for many unixes.
 
 ![The i-Budy device](img/ibuddy.jpg)
 
