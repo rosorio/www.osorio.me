@@ -13,7 +13,10 @@ The libibuddy is released with a sample CLI tool called ibuddycmd. With this too
 
 With the ibuddycmd tool, you can drive the i-buddy from the command line. By design, the command can only handle one i-buddy device, the first found in the devices list.
 
-`ibuddycmd <command> [args]`
+`ibuddycmd [id] <command> [args]`
+
+Th *id* is the iBuddy number in the usb scan list. First iBuddy ID is O. If not provided,
+this argument will be 0 by default.
 
 The command can be :
 
@@ -39,6 +42,7 @@ ibuddycmd flap 5 5000
 * flip body 7 times
 ibuddycmd 7
 
+![The i-Budy device](img/ibuddy.gif)
 
 # Download
 
