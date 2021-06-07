@@ -5,4 +5,4 @@ My name is Rodrigo OSORIO, I'm an Open source Software Engineer living in Paris,
 * [My github repo](https://github.com/rosorio)
 * My [LinkedIn page](https://www.linkedin.com/in/rodrigo-osorio-30773b6/)
 * Email: rodrigo {at} osorio {dot} me
-* IRC : _ros_ @ freenode
+* IRC : rodrigo @ libera
