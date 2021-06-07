@@ -16,7 +16,7 @@
 * [pkg provides]({ROOT}/projects/dev/pkg-provides) : A pkg plugin for querying which package provides a particular file
 
 # Hacks
-* [Xiaomi Bluetooth thermometer]({ROOT}/hack/Xiaomi-Bluetooth-Digital-Thermometer) : Access and decrypt Xiaomi Bluetooth thermometer
+* [Xiaomi Bluetooth thermometer]({ROOT}/projects/hack/Xiaomi-Bluetooth-Digital-Thermometer) : Access and decrypt Xiaomi Bluetooth thermometer
 
 # Contributions
 
