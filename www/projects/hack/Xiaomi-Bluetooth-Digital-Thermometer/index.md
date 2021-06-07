@@ -57,16 +57,15 @@ Notification handle = 0x0036 value: 4c 07 3d 99 0b
 Notification handle = 0x0036 value: 4e 07 3d 99 0b
 Notification handle = 0x0036 value: 4b 07 3d 99 0b
 ```
+
 ## Decoding the values
 
 ![Real thermometer](real-device.png)
 
-
-
 ```
 4b 07 3d 99 0b
 ----- --
- \     \-Humidity in % 0x3D = 61%
+ \     \_Humidity in % 0x3D = 61%
   \_ Temperature in Hex (0x074B = 1867) 1867 / 100 = 18.67
 ```
 
