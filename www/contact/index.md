@@ -1,5 +1,5 @@
 # About me
-My name is Rodrigo OSORIO, I'm an Open source Software Engineer living in Paris, France.
+My name is Rodrigo OSORIO, I'm an Open source Software Engineer living in Nanterre, France.
 
 * [My wish list @ amazon](http://www.amazon.fr/gp/registry/wishlist/2LPC1CA2LF80D)
 * [My github repo](https://github.com/rosorio)
