@@ -1,0 +1,6 @@
+[submodule "blog/themes/ghostwriter"]
+	path = blog/themes/ghostwriter
+	url = https://github.com/rosorio/ghostwriter.git
+[submodule "blog/themes/migle-hugo-theme"]
+	path = blog/themes/migle-hugo-theme
+	url = git@github.com:rosorio/migle-hugo-theme.git
