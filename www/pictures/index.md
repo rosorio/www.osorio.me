@@ -9,6 +9,7 @@
  * [fosdem 2008](http://www.osorio.me/photos/album.pl?album=fosdem2008)
  * [RMLL 2008](http://www.osorio.me/photos/album.pl?album=rmll2008) at Mont de Marsan, France
  * [fosdem 2009](http://www.osorio.me/photos/album.pl?album=fosdem2009)
+ * [fosdem 2023](http://www.osorio.me/photos/album.pl?album=fosdem2023)
 
 # Solution Linux
  * [SL 2008](http://www.osorio.me/photos/album.pl?album=sl2008)
