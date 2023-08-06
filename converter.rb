@@ -89,7 +89,7 @@ def iterate(dir)
     end
 end
 
-$root="/home/rodrigo/projects/siteweb/.output/www/"
+$root=""
 $title="~rodrigo"
 $force =  false
 $caneva = File.read("index.html")
