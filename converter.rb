@@ -89,7 +89,6 @@ def iterate(dir)
     end
 end
 
-#$root="/home/rodrigo/projects/siteweb/.output/"
 $root="/home/rodrigo/projects/siteweb/.output/www/"
 $title="~rodrigo"
 $force =  false
