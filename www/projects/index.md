@@ -14,6 +14,7 @@
 * [lcpustats]({ROOT}/projects/dev/lcpustat) : Display CPU stats coming from /proc/stat for Linux
 * [getpatch]({ROOT}/projects/dev/getpatch) : A shell script to download bugzilla attachments
 * [pkg provides]({ROOT}/projects/dev/pkg-provides) : A pkg plugin for querying which package provides a particular file
+* [nextbus](https://github.com/rosorio/nextbus) : Bus timetable & weather display wrote in ruby
 
 # Hacks
 * [Xiaomi Bluetooth thermometer]({ROOT}/projects/hack/Xiaomi-Bluetooth-Digital-Thermometer) : Access and decrypt Xiaomi Bluetooth thermometer
